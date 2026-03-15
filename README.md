@@ -1,5 +1,6 @@
 # Customer_behavior_analysis
 OVERVIEW
+
 This project analyzes retail customer shopping behavior to identify purchasing patterns, revenue trends, and customer segments. The analysis involves data preprocessing in Python, running analytical queries in MySQL, and building an interactive dashboard in Microsoft Power BI.
 ________________________________________________________________________________________________________________________________________________________________
 DATASET
